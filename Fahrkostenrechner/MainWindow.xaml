@@ -1,0 +1,44 @@
+﻿<Window x:Class="Fahrkostenrechner.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Fahrkostenrechner"
+        mc:Ignorable="d"
+        Title="Fahrkosten" Height="450" Width="750">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="3*" />
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <!-- Inhalte der drei Zeilen -->
+            <Border x:Name="Row_Auto" Background="#FF3C77B9" Grid.Row="0" MouseLeftButtonDown="Row_Auto_MouseLeftButtonDown">
+                <TextBlock Text="Autos" 
+                           HorizontalAlignment="Center" 
+                           VerticalAlignment="Center" FontSize="16" FontWeight="Bold" />
+            </Border>
+            <Border x:Name="Row_Krafftstoff" Background="#FF3C77B9" Grid.Row="1" MouseLeftButtonDown="Row_Krafftstoff_MouseLeftButtonDown">
+                <TextBlock Text="Krafftstoffpreise" 
+                           HorizontalAlignment="Center" 
+                           VerticalAlignment="Center" FontWeight="Bold" FontSize="16" />
+            </Border>
+            <Border x:Name="Row_Fahrkosten" Background="#FF3C77B9" Grid.Row="2" MouseLeftButtonDown="Row_Fahrkosten_MouseLeftButtonDown">
+                <TextBlock Text="Fahrkostenrechner" 
+                           HorizontalAlignment="Center" 
+                           VerticalAlignment="Center" FontWeight="Bold" FontSize="16" />
+            </Border>
+        </Grid>
+        <Grid x:Name="Main_Spalte" Background="#FFCAE1FB" Grid.Column="1">
+            
+        </Grid>
+       
+
+    </Grid>
+</Window>

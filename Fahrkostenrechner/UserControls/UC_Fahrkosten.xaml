@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="Fahrkostenrechner.UserControls.UC_Fahrkosten"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Fahrkostenrechner.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="500">
+    <Grid >
+        <Label x:Name="Marke" Content="Marke" HorizontalAlignment="Left" Height="48" Margin="36,95,0,0" VerticalAlignment="Top" Width="139" FontSize="20" FontWeight="Bold" Foreground="#FFFFFDFD"/>
+        <Label x:Name="Modell" Content="Modell" HorizontalAlignment="Left" Height="48" Margin="36,168,0,0" VerticalAlignment="Top" Width="140" FontSize="20" FontWeight="Bold" Foreground="#FFFFFDFD"/>
+        <TextBox x:Name="Textbox_km" HorizontalAlignment="Left" Height="41" Margin="178,28,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173" FontWeight="Bold" FontSize="20" VerticalContentAlignment="Center">
+
+        </TextBox>
+        <RadioButton x:Name="City" Content="Innerort" HorizontalAlignment="Left" Height="33" Margin="43,242,0,0" VerticalAlignment="Top" Width="94" RenderTransformOrigin="-5.609,3.75" FontSize="20" GroupName="Location"/>
+        <RadioButton x:Name="Hwy" Content="Außerort" HorizontalAlignment="Left" Height="33" Margin="178,242,0,0" VerticalAlignment="Top" Width="102" RenderTransformOrigin="-5.609,3.75" FontSize="20" GroupName="Location" IsChecked="True"/>
+        <RadioButton x:Name="Comb" Content="Kombiniert" HorizontalAlignment="Left" Height="33" Margin="319,242,0,0" VerticalAlignment="Top" Width="130" RenderTransformOrigin="-5.609,3.75" FontSize="20" GroupName="Location"/>
+        <RadioButton x:Name="radiobutton_benzin" Content="Benzin" HorizontalAlignment="Left" Height="27" Margin="36,289,0,0" VerticalAlignment="Top" Width="90" RenderTransformOrigin="-5.609,3.75" FontSize="20" GroupName="OilType" IsChecked="True"/>
+        <RadioButton x:Name="radiobutton_diesel" Content="Diesel" HorizontalAlignment="Left" Height="37" Margin="178,288,0,0" VerticalAlignment="Top" Width="123" RenderTransformOrigin="-5.609,3.75" FontSize="20" GroupName="OilType"/>
+        <Button x:Name="Button_Calculate" Content="Berechnen" Click="Button_Calculate_Click" HorizontalAlignment="Center" Height="40" Margin="0,344,0,0" VerticalAlignment="Top" Width="156" FontSize="20" FontWeight="Bold"/>
+        <ComboBox x:Name="DivisionComboBox" SelectionChanged="DivisionComboBox_SelectionChanged" HorizontalAlignment="Left" Height="48" Margin="159,90,0,0" VerticalAlignment="Top" Width="211" VerticalContentAlignment="Center"/>
+        <ComboBox x:Name="CarlineComboBox" SelectionChanged="CarlineComboBox_SelectionChanged" HorizontalAlignment="Left" Height="48" Margin="159,168,0,0" VerticalAlignment="Top" Width="211" VerticalContentAlignment="Center"/>
+        <Label x:Name="Km_Enter" Content="KM Eingeben" HorizontalAlignment="Left" Height="48" Margin="36,28,0,0" VerticalAlignment="Top" Width="139" FontSize="20" FontWeight="Bold" Foreground="#FFFFFDFD"/>
+    </Grid>
+</UserControl>

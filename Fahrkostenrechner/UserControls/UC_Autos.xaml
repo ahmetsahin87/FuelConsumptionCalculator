@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="Fahrkostenrechner.UserControls.Autos"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Fahrkostenrechner.UserControls"
+             mc:Ignorable="d" Width="509" Height="446">
+    <Grid>
+        <Label x:Name="Marke" Content="Marke" HorizontalAlignment="Left" Height="48" Margin="36,73,0,0" VerticalAlignment="Top" Width="139" FontSize="20" FontWeight="Bold" Foreground="#FFFFFDFD"/>
+        <Label x:Name="Modell" Content="Modell" HorizontalAlignment="Left" Height="48" Margin="26,151,0,0" VerticalAlignment="Top" Width="140" FontSize="20" FontWeight="Bold" Foreground="#FFFFFDFD"/>
+        <Label x:Name="Marke_Copy" Content="Innerort" HorizontalAlignment="Left" Height="48" Margin="36,271,0,0" VerticalAlignment="Top" Width="138" FontSize="20" FontWeight="Bold" Foreground="#FFFFFDFD"/>
+        <Label x:Name="Marke_Copy1" Content="Außerort" HorizontalAlignment="Left" Height="48" Margin="192,271,0,0" VerticalAlignment="Top" Width="140" FontSize="20" FontWeight="Bold" Foreground="#FFFFFDFD"/>
+        <Label x:Name="Marke_Copy2" Content="Kombiniert" HorizontalAlignment="Left" Height="48" Margin="352,271,0,0" VerticalAlignment="Top" Width="139" FontSize="20" FontWeight="Bold" Foreground="#FFFFFDFD"/>
+        <Label x:Name="label_city" Content="City" HorizontalAlignment="Left" Height="48" Margin="50,347,0,0" VerticalAlignment="Top" Width="139" FontSize="20" FontWeight="Bold" Foreground="#FFFFFDFD"/>
+        <Label x:Name="label_hwy" Content="Hwy" HorizontalAlignment="Left" Height="48" Margin="192,347,0,0" VerticalAlignment="Top" Width="140" FontSize="20" FontWeight="Bold" Foreground="#FFFFFDFD"/>
+        <Label x:Name="label_comb" Content="Comb" HorizontalAlignment="Left" Height="48" Margin="352,347,0,0" VerticalAlignment="Top" Width="139" FontSize="20" FontWeight="Bold" Foreground="#FFFFFDFD"/>
+        <ComboBox x:Name="DivisionComboBox" SelectionChanged="DivisionComboBox_SelectionChanged" HorizontalAlignment="Left" Height="48" Margin="175,73,0,0" VerticalAlignment="Top" Width="211" VerticalContentAlignment="Center"/>
+        <ComboBox x:Name="CarlineComboBox" SelectionChanged="CarlineComboBox_SelectionChanged" HorizontalAlignment="Left" Height="48" Margin="175,151,0,0" VerticalAlignment="Top" Width="211" VerticalContentAlignment="Center"/>
+
+    </Grid>
+</UserControl>

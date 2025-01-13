@@ -1,0 +1,7890 @@
+[
+    {
+        "Model Year":2024,
+        "Division":"Aston Martin Lagonda Ltd",
+        "Carline":"Valour",
+        "City":19.60121525,
+        "Hwy":13.0674768333,
+        "Comb":16.8010416429
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"Z4 M40i",
+        "City":10.226721,
+        "Hwy":7.5875671935,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"Z4 sDrive30i",
+        "City":9.40858332,
+        "Hwy":7.1277146364,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"Bugatti",
+        "Carline":"Chiron Super Sport",
+        "City":29.401822875,
+        "Hwy":21.3831439091,
+        "Comb":26.1349536667
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"CORVETTE",
+        "City":14.7009114375,
+        "Hwy":9.40858332,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"CORVETTE E-RAY",
+        "City":14.7009114375,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"CORVETTE Z06",
+        "City":19.60121525,
+        "Hwy":11.2006944286,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"CORVETTE Z06 CARBON AERO",
+        "City":19.60121525,
+        "Hwy":12.3797148947,
+        "Comb":16.8010416429
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ferrari North America, Inc.",
+        "Carline":"812 Competizione",
+        "City":19.60121525,
+        "Hwy":14.7009114375,
+        "Comb":16.8010416429
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ferrari North America, Inc.",
+        "Carline":"812 Competizione A",
+        "City":19.60121525,
+        "Hwy":14.7009114375,
+        "Comb":16.8010416429
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ferrari North America, Inc.",
+        "Carline":"Ferrari Daytona SP3",
+        "City":19.60121525,
+        "Hwy":14.7009114375,
+        "Comb":18.0934294615
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jaguar",
+        "Carline":"F-TYPE P450 AWD R-Dynamic Conv",
+        "City":14.7009114375,
+        "Hwy":9.800607625,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jaguar",
+        "Carline":"F-TYPE P450 AWD R-Dynamic Coupe",
+        "City":14.7009114375,
+        "Hwy":9.800607625,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jaguar",
+        "Carline":"F-TYPE P450 RWD Convertible",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jaguar",
+        "Carline":"F-TYPE P450 RWD Coupe",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jaguar",
+        "Carline":"F-TYPE R AWD Convertible",
+        "City":14.7009114375,
+        "Hwy":9.800607625,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jaguar",
+        "Carline":"F-TYPE R AWD Coupe",
+        "City":14.7009114375,
+        "Hwy":9.800607625,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Lamborghini",
+        "Carline":"Huracan Coupe 2WD",
+        "City":18.0934294615,
+        "Hwy":13.0674768333,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"Lamborghini",
+        "Carline":"Huracan Spyder",
+        "City":18.0934294615,
+        "Hwy":13.0674768333,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"Lamborghini",
+        "Carline":"Huracan Sterrato",
+        "City":18.0934294615,
+        "Hwy":13.0674768333,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"Lotus Cars Ltd",
+        "Carline":"Emira",
+        "City":13.0674768333,
+        "Hwy":9.0467147308,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Lotus Cars Ltd",
+        "Carline":"Emira",
+        "City":14.7009114375,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"MC20",
+        "City":15.6809722,
+        "Hwy":9.40858332,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"MC20 Spyder",
+        "City":15.6809722,
+        "Hwy":9.40858332,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"MX-5",
+        "City":9.0467147308,
+        "Hwy":6.7204166571,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"MX-5",
+        "City":9.0467147308,
+        "Hwy":6.9180759706,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG GT 55 4MATIC+ (coupe)",
+        "City":18.0934294615,
+        "Hwy":11.76072915,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG GT 63 4MATIC+ (coupe)",
+        "City":18.0934294615,
+        "Hwy":11.76072915,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG SL 43",
+        "City":11.76072915,
+        "Hwy":8.7116512222,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"Z",
+        "City":12.3797148947,
+        "Hwy":8.4005208214,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"Z",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"Z NISMO",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"718 Boxster",
+        "City":11.2006944286,
+        "Hwy":8.7116512222,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"718 Boxster",
+        "City":11.76072915,
+        "Hwy":9.40858332,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"718 Boxster GTS 4.0",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"718 Boxster GTS 4.0",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"718 Boxster S",
+        "City":12.3797148947,
+        "Hwy":9.40858332,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"718 Boxster S",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"718 Cayman",
+        "City":11.2006944286,
+        "Hwy":8.7116512222,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"718 Cayman",
+        "City":11.76072915,
+        "Hwy":9.40858332,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"718 Cayman GTS 4.0",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"718 Cayman GTS 4.0",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"718 Cayman S",
+        "City":12.3797148947,
+        "Hwy":9.40858332,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"718 Cayman S",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"718 GT4 RS",
+        "City":15.6809722,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"718 Spyder RS",
+        "City":16.8010416429,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 GT3",
+        "City":16.8010416429,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 GT3",
+        "City":18.0934294615,
+        "Hwy":12.3797148947,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 GT3 RS",
+        "City":16.8010416429,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 GT3 Touring",
+        "City":16.8010416429,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 GT3 Touring",
+        "City":18.0934294615,
+        "Hwy":12.3797148947,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 S\/T",
+        "City":18.0934294615,
+        "Hwy":12.3797148947,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"Supra 2.0",
+        "City":9.40858332,
+        "Hwy":7.5875671935,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"Supra 3.0",
+        "City":10.226721,
+        "Hwy":7.5875671935,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"Supra 3.0",
+        "City":12.3797148947,
+        "Hwy":8.7116512222,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Aston Martin Lagonda Ltd",
+        "Carline":"DB12 V8",
+        "City":15.6809722,
+        "Hwy":10.6915719545,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Bentley",
+        "Carline":"Continental GTC",
+        "City":16.8010416429,
+        "Hwy":11.2006944286,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Bentley",
+        "Carline":"Continental GTC",
+        "City":19.60121525,
+        "Hwy":12.3797148947,
+        "Comb":16.8010416429
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ferrari North America, Inc.",
+        "Carline":"Roma Spider",
+        "City":13.8361519412,
+        "Hwy":10.6915719545,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"LC 500 CONVERTIBLE",
+        "City":15.6809722,
+        "Hwy":9.40858332,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG SL 55 4MATIC+",
+        "City":16.8010416429,
+        "Hwy":11.2006944286,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG SL 63 4MATIC+",
+        "City":16.8010416429,
+        "Hwy":11.2006944286,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER CONVERTIBLE",
+        "City":8.1108476897,
+        "Hwy":6.1898574474,
+        "Comb":7.3504557188
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER CONVERTIBLE",
+        "City":8.7116512222,
+        "Hwy":6.1898574474,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER S CONVERTIBLE",
+        "City":8.7116512222,
+        "Hwy":6.5337384167,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER S CONVERTIBLE",
+        "City":10.226721,
+        "Hwy":7.1277146364,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"JOHN COOPER WORKS CONVERTIBLE",
+        "City":9.40858332,
+        "Hwy":7.1277146364,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera 4",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera 4 Cabriolet",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera 4 GTS",
+        "City":13.8361519412,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera 4 GTS",
+        "City":13.8361519412,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera 4 GTS Cabriolet",
+        "City":13.8361519412,
+        "Hwy":10.6915719545,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera 4 GTS Cabriolet",
+        "City":14.7009114375,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera 4S",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera 4S",
+        "City":13.8361519412,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera 4S Cabriolet",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera 4S Cabriolet",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera Cabriolet",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera GTS",
+        "City":13.8361519412,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera GTS",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera GTS Cabriolet",
+        "City":13.8361519412,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera GTS Cabriolet",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera S",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera S",
+        "City":13.0674768333,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera S Cabriolet",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera S Cabriolet",
+        "City":13.8361519412,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera T",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Carrera T",
+        "City":13.8361519412,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Dakar",
+        "City":14.7009114375,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Targa 4",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Targa 4 GTS",
+        "City":13.8361519412,
+        "Hwy":10.6915719545,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Targa 4 GTS",
+        "City":14.7009114375,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Targa 4S",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Targa 4S",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Turbo",
+        "City":16.8010416429,
+        "Hwy":11.2006944286,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Turbo Cabriolet",
+        "City":16.8010416429,
+        "Hwy":11.76072915,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Turbo S",
+        "City":16.8010416429,
+        "Hwy":11.76072915,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"911 Turbo S Cabriolet",
+        "City":16.8010416429,
+        "Hwy":11.76072915,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"BRZ",
+        "City":11.2006944286,
+        "Hwy":7.8404861,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"BRZ",
+        "City":11.76072915,
+        "Hwy":8.7116512222,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"GR86",
+        "City":11.2006944286,
+        "Hwy":7.8404861,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"GR86",
+        "City":11.76072915,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"A3",
+        "City":8.1108476897,
+        "Hwy":6.3571508919,
+        "Comb":7.3504557188
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"A3 quattro",
+        "City":8.7116512222,
+        "Hwy":6.9180759706,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"A5 Cabriolet quattro",
+        "City":9.800607625,
+        "Hwy":7.1277146364,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"A5 Coupe quattro",
+        "City":9.800607625,
+        "Hwy":7.3504557188,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"RS 3",
+        "City":12.3797148947,
+        "Hwy":8.1108476897,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"RS 5 Coupe",
+        "City":13.0674768333,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"S3",
+        "City":10.226721,
+        "Hwy":7.3504557188,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"S5 Cabriolet",
+        "City":11.76072915,
+        "Hwy":8.7116512222,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"S5 Coupe",
+        "City":11.2006944286,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Bentley",
+        "Carline":"Continental GT",
+        "City":16.8010416429,
+        "Hwy":10.6915719545,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Bentley",
+        "Carline":"Continental GT",
+        "City":19.60121525,
+        "Hwy":11.76072915,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"230i Coupe",
+        "City":9.0467147308,
+        "Hwy":6.7204166571,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"230i xDrive Coupe",
+        "City":9.40858332,
+        "Hwy":7.1277146364,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"430i Convertible",
+        "City":9.40858332,
+        "Hwy":6.9180759706,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"430i Coupe",
+        "City":9.40858332,
+        "Hwy":6.9180759706,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"430i xDrive Convertible",
+        "City":10.226721,
+        "Hwy":7.1277146364,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"430i xDrive Coupe",
+        "City":10.226721,
+        "Hwy":7.1277146364,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"840i Convertible",
+        "City":11.2006944286,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"840i Coupe",
+        "City":11.2006944286,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"840i xDrive Convertible",
+        "City":11.2006944286,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"840i xDrive Coupe",
+        "City":11.2006944286,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M2 Coupe",
+        "City":14.7009114375,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M2 Coupe",
+        "City":14.7009114375,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M240i Coupe",
+        "City":10.6915719545,
+        "Hwy":7.3504557188,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M240i xDrive Coupe",
+        "City":10.226721,
+        "Hwy":7.3504557188,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M4 Competition Coupe",
+        "City":14.7009114375,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M4 Competition M xDrive Coupe",
+        "City":14.7009114375,
+        "Hwy":10.6915719545,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M4 Coupe",
+        "City":14.7009114375,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M440i Convertible",
+        "City":10.226721,
+        "Hwy":7.5875671935,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M440i Coupe",
+        "City":9.800607625,
+        "Hwy":7.3504557188,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M440i xDrive Convertible",
+        "City":10.6915719545,
+        "Hwy":7.8404861,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M440i xDrive Coupe",
+        "City":10.6915719545,
+        "Hwy":7.5875671935,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M4CompetitionMxDriveConvertible",
+        "City":14.7009114375,
+        "Hwy":10.226721,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M8 Competition Convertible",
+        "City":15.6809722,
+        "Hwy":10.6915719545,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M8 Competition Coupe",
+        "City":15.6809722,
+        "Hwy":10.6915719545,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M850i xDrive Convertible",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M850i xDrive Coupe",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"CAMARO",
+        "City":13.0674768333,
+        "Hwy":8.1108476897,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"CAMARO",
+        "City":14.7009114375,
+        "Hwy":9.0467147308,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"CAMARO",
+        "City":18.0934294615,
+        "Hwy":11.2006944286,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"CAMARO",
+        "City":14.7009114375,
+        "Hwy":9.0467147308,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"CAMARO",
+        "City":14.7009114375,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"CAMARO",
+        "City":16.8010416429,
+        "Hwy":11.76072915,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ferrari North America, Inc.",
+        "Carline":"Roma",
+        "City":13.8361519412,
+        "Hwy":10.6915719545,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"MUSTANG",
+        "City":10.6915719545,
+        "Hwy":7.1277146364,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"MUSTANG",
+        "City":14.7009114375,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"MUSTANG",
+        "City":15.6809722,
+        "Hwy":9.800607625,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"MUSTANG",
+        "City":15.6809722,
+        "Hwy":10.226721,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"MUSTANG",
+        "City":16.8010416429,
+        "Hwy":10.226721,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"MUSTANG DARK HORSE",
+        "City":16.8010416429,
+        "Hwy":10.6915719545,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"MUSTANG DARK HORSE",
+        "City":16.8010416429,
+        "Hwy":10.6915719545,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"MUSTANG PERFORMANCE PACK",
+        "City":11.2006944286,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"LC 500",
+        "City":14.7009114375,
+        "Hwy":9.800607625,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"LC 500h",
+        "City":9.0467147308,
+        "Hwy":7.1277146364,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"RC 300",
+        "City":11.2006944286,
+        "Hwy":7.5875671935,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"RC 300 AWD",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"RC 350",
+        "City":11.76072915,
+        "Hwy":8.4005208214,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"RC 350 AWD",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"RC F",
+        "City":14.7009114375,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Grancabrio Trofeo",
+        "City":13.8361519412,
+        "Hwy":9.0467147308,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Granturismo Modena",
+        "City":13.0674768333,
+        "Hwy":8.7116512222,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Granturismo Trofeo",
+        "City":13.0674768333,
+        "Hwy":8.7116512222,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG CLE 53 4MATIC+ (Coupe)",
+        "City":11.76072915,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"CLE 300 4MATIC (Convertible)",
+        "City":10.226721,
+        "Hwy":7.3504557188,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"CLE 300 4MATIC (Coupe)",
+        "City":9.800607625,
+        "Hwy":6.9180759706,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"CLE 450 4MATIC (Convertible)",
+        "City":10.226721,
+        "Hwy":7.3504557188,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"CLE 450 4MATIC (Coupe)",
+        "City":10.226721,
+        "Hwy":7.1277146364,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER HARDTOP 2 DOOR",
+        "City":8.1108476897,
+        "Hwy":6.1898574474,
+        "Comb":7.3504557188
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER HARDTOP 2 DOOR",
+        "City":8.7116512222,
+        "Hwy":6.1898574474,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER HARDTOP 4 DOOR",
+        "City":8.1108476897,
+        "Hwy":6.1898574474,
+        "Comb":7.3504557188
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER HARDTOP 4 DOOR",
+        "City":8.7116512222,
+        "Hwy":6.1898574474,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER S HARDTOP 2 DOOR",
+        "City":8.4005208214,
+        "Hwy":6.1898574474,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER S HARDTOP 2 DOOR",
+        "City":10.226721,
+        "Hwy":7.1277146364,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER S HARDTOP 4 DOOR",
+        "City":8.4005208214,
+        "Hwy":6.1898574474,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER S HARDTOP 4 DOOR",
+        "City":10.226721,
+        "Hwy":7.1277146364,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"JOHN COOPER WORKS HARDTOP 2 DOOR",
+        "City":9.0467147308,
+        "Hwy":6.7204166571,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"JOHN COOPER WORKS HARDTOP 2 DOOR",
+        "City":10.6915719545,
+        "Hwy":7.3504557188,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"GT-R",
+        "City":14.7009114375,
+        "Hwy":10.6915719545,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"GR COROLLA",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Acura",
+        "Carline":"TLX AWD A-SPEC",
+        "City":11.2006944286,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Acura",
+        "Carline":"TLX FWD",
+        "City":10.6915719545,
+        "Hwy":7.5875671935,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Acura",
+        "Carline":"TLX Type-S",
+        "City":12.3797148947,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"A4 quattro",
+        "City":9.0467147308,
+        "Hwy":6.7204166571,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"A4 S line quattro",
+        "City":9.800607625,
+        "Hwy":7.3504557188,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"S4",
+        "City":11.2006944286,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"228i Gran Coupe",
+        "City":9.800607625,
+        "Hwy":6.9180759706,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"228i xDrive Gran Coupe",
+        "City":10.226721,
+        "Hwy":7.1277146364,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"330i Sedan",
+        "City":9.40858332,
+        "Hwy":6.9180759706,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"330i xDrive Sedan",
+        "City":9.800607625,
+        "Hwy":7.1277146364,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"430i Gran Coupe",
+        "City":9.40858332,
+        "Hwy":6.9180759706,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"430i xDrive Gran Coupe",
+        "City":10.226721,
+        "Hwy":7.1277146364,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M235i xDrive Gran Coupe",
+        "City":9.800607625,
+        "Hwy":7.1277146364,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M3 Competition M xDrive Sedan",
+        "City":14.7009114375,
+        "Hwy":10.6915719545,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M3 Competition Sedan",
+        "City":14.7009114375,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M3 CS Sedan",
+        "City":15.6809722,
+        "Hwy":10.6915719545,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M3 Sedan",
+        "City":14.7009114375,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M340i Sedan",
+        "City":10.226721,
+        "Hwy":7.5875671935,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M340i xDrive Sedan",
+        "City":10.226721,
+        "Hwy":7.5875671935,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M440i Gran Coupe",
+        "City":9.800607625,
+        "Hwy":7.3504557188,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M440i xDrive Gran Coupe",
+        "City":10.6915719545,
+        "Hwy":7.8404861,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"CT4",
+        "City":10.6915719545,
+        "Hwy":7.3504557188,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"CT4",
+        "City":11.2006944286,
+        "Hwy":7.5875671935,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"CT4 AWD",
+        "City":11.2006944286,
+        "Hwy":7.5875671935,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"CT4 AWD",
+        "City":11.2006944286,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"CT4 V",
+        "City":11.76072915,
+        "Hwy":8.1108476897,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"CT4 V",
+        "City":14.7009114375,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"CT4 V",
+        "City":15.6809722,
+        "Hwy":10.226721,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"CT4 V AWD",
+        "City":11.76072915,
+        "Hwy":8.4005208214,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"GENESIS",
+        "Carline":"G70 AWD",
+        "City":11.76072915,
+        "Hwy":8.4005208214,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"GENESIS",
+        "Carline":"G70 RWD",
+        "City":11.2006944286,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"IS 300",
+        "City":11.2006944286,
+        "Hwy":7.5875671935,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"IS 300 AWD",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"IS 350",
+        "City":11.76072915,
+        "Hwy":8.4005208214,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"IS 350 AWD",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"IS 500",
+        "City":13.8361519412,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"UX 250h",
+        "City":5.4701065814,
+        "Hwy":5.7369410488,
+        "Comb":5.6003472143
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"UX 250h",
+        "City":5.4701065814,
+        "Hwy":5.7369410488,
+        "Comb":5.6003472143
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"UX 250h AWD",
+        "City":5.7369410488,
+        "Hwy":6.1898574474,
+        "Comb":6.0311431538
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"UX 250h AWD",
+        "City":5.7369410488,
+        "Hwy":6.1898574474,
+        "Comb":6.0311431538
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"MAZDA3 4-Door 2WD",
+        "City":8.7116512222,
+        "Hwy":6.3571508919,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"MAZDA3 4-Door 4WD",
+        "City":10.226721,
+        "Hwy":7.3504557188,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"MAZDA3 4-Door 4WD",
+        "City":9.0467147308,
+        "Hwy":6.7204166571,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG C 43 4MATIC",
+        "City":11.76072915,
+        "Hwy":8.4005208214,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG CLA 35 4MATIC",
+        "City":10.6915719545,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG CLA 45 S 4MATIC",
+        "City":11.76072915,
+        "Hwy":8.4005208214,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG GT 43 4MATIC+",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG GT 53 4MATIC+",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG GT 63 4MATIC+",
+        "City":15.6809722,
+        "Hwy":11.2006944286,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"C 300",
+        "City":9.0467147308,
+        "Hwy":6.5337384167,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"C 300 4MATIC",
+        "City":10.226721,
+        "Hwy":7.1277146364,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"CLA 250",
+        "City":9.0467147308,
+        "Hwy":6.5337384167,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"CLA 250 4MATIC",
+        "City":9.40858332,
+        "Hwy":6.7204166571,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mitsubishi Motors Corporation",
+        "Carline":"MIRAGE",
+        "City":6.5337384167,
+        "Hwy":5.4701065814,
+        "Comb":6.0311431538
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mitsubishi Motors Corporation",
+        "Carline":"MIRAGE G4",
+        "City":6.7204166571,
+        "Hwy":5.7369410488,
+        "Comb":6.3571508919
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"VERSA",
+        "City":7.3504557188,
+        "Hwy":5.880364575,
+        "Comb":6.7204166571
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"VERSA",
+        "City":8.7116512222,
+        "Hwy":6.7204166571,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"COROLLA",
+        "City":7.5875671935,
+        "Hwy":5.880364575,
+        "Comb":6.9180759706
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"COROLLA",
+        "City":7.3504557188,
+        "Hwy":5.7369410488,
+        "Comb":6.7204166571
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"COROLLA HATCHBACK",
+        "City":7.3504557188,
+        "Hwy":5.7369410488,
+        "Comb":6.7204166571
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"COROLLA HATCHBACK XSE",
+        "City":7.8404861,
+        "Hwy":6.1898574474,
+        "Comb":7.1277146364
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"COROLLA HYBRID",
+        "City":4.70429166,
+        "Hwy":5.4701065814,
+        "Comb":5.0045655957
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"COROLLA HYBRID",
+        "City":4.438011,
+        "Hwy":5.1133605,
+        "Comb":4.70429166
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"COROLLA HYBRID AWD",
+        "City":5.0045655957,
+        "Hwy":5.7369410488,
+        "Comb":5.3457859773
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"COROLLA HYBRID AWD",
+        "City":4.6120506471,
+        "Hwy":5.3457859773,
+        "Comb":4.9003038125
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"GLI",
+        "City":9.0467147308,
+        "Hwy":6.5337384167,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"GLI",
+        "City":9.800607625,
+        "Hwy":6.7204166571,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Golf R",
+        "City":10.6915719545,
+        "Hwy":7.5875671935,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Golf R",
+        "City":11.76072915,
+        "Hwy":8.4005208214,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"GTI",
+        "City":9.800607625,
+        "Hwy":7.1277146364,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"GTI",
+        "City":10.226721,
+        "Hwy":6.9180759706,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Jetta",
+        "City":7.8404861,
+        "Hwy":5.7369410488,
+        "Comb":6.9180759706
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Jetta",
+        "City":8.1108476897,
+        "Hwy":5.6003472143,
+        "Comb":6.9180759706
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Jetta Sport\/SE\/SEL",
+        "City":8.1108476897,
+        "Hwy":5.880364575,
+        "Comb":7.1277146364
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volvo Cars of North America, LLC",
+        "Carline":"S60 B5",
+        "City":9.0467147308,
+        "Hwy":6.7204166571,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volvo Cars of North America, LLC",
+        "Carline":"S60 B5 AWD",
+        "City":9.40858332,
+        "Hwy":7.1277146364,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"ALFA ROMEO",
+        "Carline":"Giulia",
+        "City":9.800607625,
+        "Hwy":7.1277146364,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"ALFA ROMEO",
+        "Carline":"Giulia",
+        "City":13.8361519412,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"ALFA ROMEO",
+        "Carline":"Giulia AWD",
+        "City":10.226721,
+        "Hwy":7.5875671935,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"A5 Sportback quattro",
+        "City":9.0467147308,
+        "Hwy":6.7204166571,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"A5 Sportback S line quattro",
+        "City":9.800607625,
+        "Hwy":7.3504557188,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"A6 quattro",
+        "City":10.226721,
+        "Hwy":7.1277146364,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"A6 quattro",
+        "City":10.6915719545,
+        "Hwy":7.8404861,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"A7 quattro",
+        "City":10.6915719545,
+        "Hwy":7.8404861,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"RS 5 Sportback",
+        "City":13.0674768333,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"RS 7",
+        "City":16.8010416429,
+        "Hwy":10.6915719545,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"S5 Sportback",
+        "City":11.76072915,
+        "Hwy":8.1108476897,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"S6",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"S7",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Bentley",
+        "Carline":"Flying Spur",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Bentley",
+        "Carline":"Flying Spur",
+        "City":19.60121525,
+        "Hwy":12.3797148947,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"530i Sedan",
+        "City":8.7116512222,
+        "Hwy":6.7204166571,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"530i xDrive Sedan",
+        "City":8.7116512222,
+        "Hwy":6.7204166571,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"540i xDrive Sedan",
+        "City":9.0467147308,
+        "Hwy":7.1277146364,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"840i Gran Coupe",
+        "City":11.2006944286,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"840i xDrive Gran Coupe",
+        "City":11.2006944286,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"ALPINA B8 Gran Coupe",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M8 Competition Gran Coupe",
+        "City":15.6809722,
+        "Hwy":10.6915719545,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"M850i xDrive Gran Coupe",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"CT5",
+        "City":10.226721,
+        "Hwy":7.1277146364,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"CT5",
+        "City":12.3797148947,
+        "Hwy":8.7116512222,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"CT5 AWD",
+        "City":10.6915719545,
+        "Hwy":7.8404861,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"CT5 AWD",
+        "City":13.0674768333,
+        "Hwy":9.0467147308,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"CT5 V",
+        "City":13.0674768333,
+        "Hwy":8.7116512222,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"CT5 V",
+        "City":18.0934294615,
+        "Hwy":11.2006944286,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"CT5 V",
+        "City":18.0934294615,
+        "Hwy":11.2006944286,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"CT5 V AWD",
+        "City":13.0674768333,
+        "Hwy":9.0467147308,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"MALIBU",
+        "City":8.4005208214,
+        "Hwy":6.5337384167,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"ACCORD SPORT\/TOURING",
+        "City":5.1133605,
+        "Hwy":5.7369410488,
+        "Comb":5.3457859773
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"CIVIC 4Dr",
+        "City":7.1277146364,
+        "Hwy":5.6003472143,
+        "Comb":6.5337384167
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"CIVIC 4Dr",
+        "City":7.5875671935,
+        "Hwy":6.1898574474,
+        "Comb":6.9180759706
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"CIVIC 4Dr",
+        "City":8.7116512222,
+        "Hwy":6.3571508919,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"CIVIC 4Dr",
+        "City":7.5875671935,
+        "Hwy":5.880364575,
+        "Comb":6.7204166571
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"CIVIC 4Dr",
+        "City":7.8404861,
+        "Hwy":6.3571508919,
+        "Comb":7.1277146364
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Elantra",
+        "City":8.4005208214,
+        "Hwy":6.7204166571,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Elantra",
+        "City":7.3504557188,
+        "Hwy":5.7369410488,
+        "Comb":6.5337384167
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Elantra",
+        "City":7.5875671935,
+        "Hwy":5.880364575,
+        "Comb":6.9180759706
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Elantra Hybrid",
+        "City":4.8002976122,
+        "Hwy":4.5233573654,
+        "Comb":4.70429166
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Elantra Hybrid Blue",
+        "City":4.6120506471,
+        "Hwy":4.0554238448,
+        "Comb":4.3558256111
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Elantra N",
+        "City":11.76072915,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Elantra N",
+        "City":11.2006944286,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"INFINITI",
+        "Carline":"Q50",
+        "City":11.76072915,
+        "Hwy":8.1108476897,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"INFINITI",
+        "Carline":"Q50 AWD",
+        "City":12.3797148947,
+        "Hwy":8.7116512222,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"INFINITI",
+        "Carline":"Q50 AWD RED SPORT",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"INFINITI",
+        "Carline":"Q50 RED SPORT",
+        "City":11.76072915,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jaguar",
+        "Carline":"XF P250",
+        "City":10.226721,
+        "Hwy":7.8404861,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jaguar",
+        "Carline":"XF P300 AWD",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Forte",
+        "City":8.7116512222,
+        "Hwy":6.7204166571,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Forte",
+        "City":10.6915719545,
+        "Hwy":7.5875671935,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Forte",
+        "City":8.4005208214,
+        "Hwy":6.0311431538,
+        "Comb":7.3504557188
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Forte FE",
+        "City":7.8404861,
+        "Hwy":5.7369410488,
+        "Comb":6.9180759706
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"ES 250 AWD",
+        "City":9.40858332,
+        "Hwy":6.9180759706,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"ES 300h",
+        "City":5.4701065814,
+        "Hwy":5.3457859773,
+        "Comb":5.3457859773
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"ES 350",
+        "City":10.6915719545,
+        "Hwy":7.3504557188,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"ES 350 F SPORT",
+        "City":10.6915719545,
+        "Hwy":7.5875671935,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"LS 500",
+        "City":13.0674768333,
+        "Hwy":8.1108476897,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"LS 500 AWD",
+        "City":13.8361519412,
+        "Hwy":8.7116512222,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"LS 500h AWD",
+        "City":10.6915719545,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"LS 500h AWD",
+        "City":10.6915719545,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Ghibli GT",
+        "City":13.0674768333,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Ghibli Modena AWD",
+        "City":13.8361519412,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Ghibli Modena RWD",
+        "City":13.0674768333,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Ghibli Trofeo",
+        "City":18.0934294615,
+        "Hwy":11.76072915,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"MAZDA3 5-Door 2WD",
+        "City":8.7116512222,
+        "Hwy":6.7204166571,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"MAZDA3 5-Door 2WD",
+        "City":9.0467147308,
+        "Hwy":6.5337384167,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"MAZDA3 5-Door 4WD",
+        "City":10.226721,
+        "Hwy":7.5875671935,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"MAZDA3 5-Door 4WD",
+        "City":9.0467147308,
+        "Hwy":7.1277146364,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"E 350 4MATIC",
+        "City":9.800607625,
+        "Hwy":7.1277146364,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"E 450 4MATIC",
+        "City":10.6915719545,
+        "Hwy":7.5875671935,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER COUNTRYMAN",
+        "City":9.0467147308,
+        "Hwy":7.3504557188,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER COUNTRYMAN ALL4",
+        "City":10.226721,
+        "Hwy":7.5875671935,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER S CLUBMAN",
+        "City":9.40858332,
+        "Hwy":6.7204166571,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER S CLUBMAN",
+        "City":10.6915719545,
+        "Hwy":7.3504557188,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER S CLUBMAN ALL4",
+        "City":10.226721,
+        "Hwy":7.3504557188,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER S COUNTRYMAN",
+        "City":9.800607625,
+        "Hwy":7.1277146364,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"COOPER S COUNTRYMAN ALL4",
+        "City":10.226721,
+        "Hwy":7.5875671935,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"JCW COUNTRYMAN ALL4",
+        "City":9.800607625,
+        "Hwy":7.8404861,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mini",
+        "Carline":"JOHN COOPER WORKS CLUBMAN ALL4",
+        "City":10.226721,
+        "Hwy":7.5875671935,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"ALTIMA",
+        "City":8.7116512222,
+        "Hwy":6.0311431538,
+        "Comb":7.3504557188
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"ALTIMA AWD",
+        "City":9.0467147308,
+        "Hwy":6.5337384167,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"ALTIMA SL\/SR",
+        "City":8.7116512222,
+        "Hwy":6.3571508919,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"ALTIMA SR",
+        "City":9.40858332,
+        "Hwy":6.9180759706,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"KICKS",
+        "City":7.5875671935,
+        "Hwy":6.5337384167,
+        "Comb":7.1277146364
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"SENTRA",
+        "City":7.8404861,
+        "Hwy":5.880364575,
+        "Comb":6.9180759706
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"SENTRA SR",
+        "City":7.8404861,
+        "Hwy":6.1898574474,
+        "Comb":7.1277146364
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"LEGACY",
+        "City":10.226721,
+        "Hwy":7.5875671935,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"LEGACY",
+        "City":8.7116512222,
+        "Hwy":6.7204166571,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"WRX",
+        "City":13.0674768333,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"WRX",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"CAMRY",
+        "City":10.6915719545,
+        "Hwy":7.1277146364,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"CAMRY AWD LE\/SE",
+        "City":9.40858332,
+        "Hwy":6.9180759706,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"CAMRY AWD XLE\/XSE",
+        "City":9.40858332,
+        "Hwy":6.9180759706,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"CAMRY HYBRID LE",
+        "City":4.6120506471,
+        "Hwy":4.438011,
+        "Comb":4.5233573654
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"CAMRY HYBRID SE\/XLE\/XSE",
+        "City":5.3457859773,
+        "Hwy":5.0045655957,
+        "Comb":5.1133605
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"CAMRY LE\/SE",
+        "City":8.4005208214,
+        "Hwy":6.0311431538,
+        "Comb":7.3504557188
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"CAMRY TRD",
+        "City":10.6915719545,
+        "Hwy":7.5875671935,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"CAMRY XLE\/XSE",
+        "City":8.7116512222,
+        "Hwy":6.1898574474,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"CAMRY XSE",
+        "City":10.6915719545,
+        "Hwy":7.3504557188,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"PRIUS",
+        "City":4.1265716316,
+        "Hwy":4.2002604107,
+        "Comb":4.1265716316
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"PRIUS AWD",
+        "City":4.438011,
+        "Hwy":4.3558256111,
+        "Comb":4.3558256111
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"PRIUS AWD XLE\/LTD",
+        "City":4.8002976122,
+        "Hwy":4.70429166,
+        "Comb":4.8002976122
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"PRIUS XLE\/LTD",
+        "City":4.5233573654,
+        "Hwy":4.5233573654,
+        "Comb":4.5233573654
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TOYOTA CROWN AWD",
+        "City":8.1108476897,
+        "Hwy":7.3504557188,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TOYOTA CROWN AWD",
+        "City":5.6003472143,
+        "Hwy":5.7369410488,
+        "Comb":5.7369410488
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volvo Cars of North America, LLC",
+        "Carline":"S90 B6 AWD",
+        "City":10.6915719545,
+        "Hwy":7.5875671935,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Acura",
+        "Carline":"INTEGRA",
+        "City":7.8404861,
+        "Hwy":6.3571508919,
+        "Comb":7.1277146364
+    },
+    {
+        "Model Year":2024,
+        "Division":"Acura",
+        "Carline":"INTEGRA",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Acura",
+        "Carline":"INTEGRA A-SPEC",
+        "City":8.1108476897,
+        "Hwy":6.5337384167,
+        "Comb":7.3504557188
+    },
+    {
+        "Model Year":2024,
+        "Division":"Acura",
+        "Carline":"INTEGRA A-SPEC",
+        "City":9.0467147308,
+        "Hwy":6.5337384167,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"A8 quattro",
+        "City":12.3797148947,
+        "Hwy":8.4005208214,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"S8",
+        "City":15.6809722,
+        "Hwy":9.800607625,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"740i Sedan",
+        "City":9.40858332,
+        "Hwy":7.5875671935,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"740i xDrive Sedan",
+        "City":9.800607625,
+        "Hwy":7.5875671935,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"760i xDrive Sedan",
+        "City":13.0674768333,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"GENESIS",
+        "Carline":"G80 AWD",
+        "City":10.6915719545,
+        "Hwy":7.8404861,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"GENESIS",
+        "Carline":"G80 AWD",
+        "City":13.8361519412,
+        "Hwy":9.40858332,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"GENESIS",
+        "Carline":"G90 AWD",
+        "City":13.0674768333,
+        "Hwy":9.0467147308,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"GENESIS",
+        "Carline":"G90 MHEV",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"ACCORD",
+        "City":8.1108476897,
+        "Hwy":6.3571508919,
+        "Comb":7.3504557188
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"ACCORD",
+        "City":4.6120506471,
+        "Hwy":5.3457859773,
+        "Comb":4.9003038125
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"CIVIC 5Dr",
+        "City":7.5875671935,
+        "Hwy":6.0311431538,
+        "Comb":6.7204166571
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"CIVIC 5Dr",
+        "City":7.8404861,
+        "Hwy":6.3571508919,
+        "Comb":7.1277146364
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"CIVIC 5Dr",
+        "City":8.4005208214,
+        "Hwy":6.3571508919,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"CIVIC 5Dr",
+        "City":7.8404861,
+        "Hwy":6.1898574474,
+        "Comb":7.1277146364
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"CIVIC 5Dr",
+        "City":8.1108476897,
+        "Hwy":6.3571508919,
+        "Comb":7.3504557188
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"CIVIC 5Dr",
+        "City":9.0467147308,
+        "Hwy":6.5337384167,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"CIVIC 5Dr",
+        "City":10.6915719545,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Sonata AWD",
+        "City":9.40858332,
+        "Hwy":6.9180759706,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Sonata FWD",
+        "City":10.226721,
+        "Hwy":7.3504557188,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Sonata FWD",
+        "City":9.40858332,
+        "Hwy":6.5337384167,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Sonata Hybrid",
+        "City":5.3457859773,
+        "Hwy":4.6120506471,
+        "Comb":5.0045655957
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"K5",
+        "City":8.7116512222,
+        "Hwy":6.3571508919,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"K5",
+        "City":9.800607625,
+        "Hwy":7.3504557188,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"K5 AWD",
+        "City":9.40858332,
+        "Hwy":7.1277146364,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Quattroporte GT",
+        "City":14.7009114375,
+        "Hwy":9.40858332,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Quattroporte Modena AWD",
+        "City":13.8361519412,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Quattroporte Modena RWD",
+        "City":14.7009114375,
+        "Hwy":9.40858332,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Quattroporte Trofeo",
+        "City":18.0934294615,
+        "Hwy":11.76072915,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"Maybach S 680 4Matic",
+        "City":19.60121525,
+        "Hwy":11.76072915,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"S 500 4MATIC",
+        "City":11.2006944286,
+        "Hwy":7.5875671935,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"S 580 4MATIC",
+        "City":13.0674768333,
+        "Hwy":8.7116512222,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"S 580 4MATIC Maybach",
+        "City":13.0674768333,
+        "Hwy":9.0467147308,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"Panamera",
+        "City":13.0674768333,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"Panamera 4",
+        "City":13.0674768333,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Rolls-Royce Motor Cars Limited",
+        "Carline":"Ghost",
+        "City":19.60121525,
+        "Hwy":12.3797148947,
+        "Comb":16.8010416429
+    },
+    {
+        "Model Year":2024,
+        "Division":"Rolls-Royce Motor Cars Limited",
+        "Carline":"Ghost Black Badge",
+        "City":19.60121525,
+        "Hwy":12.3797148947,
+        "Comb":16.8010416429
+    },
+    {
+        "Model Year":2024,
+        "Division":"Rolls-Royce Motor Cars Limited",
+        "Carline":"Ghost Extended",
+        "City":19.60121525,
+        "Hwy":12.3797148947,
+        "Comb":16.8010416429
+    },
+    {
+        "Model Year":2024,
+        "Division":"Rolls-Royce Motor Cars Limited",
+        "Carline":"Phantom",
+        "City":19.60121525,
+        "Hwy":13.0674768333,
+        "Comb":16.8010416429
+    },
+    {
+        "Model Year":2024,
+        "Division":"Rolls-Royce Motor Cars Limited",
+        "Carline":"Phantom Extended",
+        "City":19.60121525,
+        "Hwy":13.0674768333,
+        "Comb":16.8010416429
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Arteon 4Motion",
+        "City":10.6915719545,
+        "Hwy":7.8404861,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"A4 allroad quattro",
+        "City":10.226721,
+        "Hwy":7.8404861,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Buick",
+        "Carline":"ENVISTA",
+        "City":8.4005208214,
+        "Hwy":7.3504557188,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"TRAX",
+        "City":8.4005208214,
+        "Hwy":7.3504557188,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"HR-V AWD",
+        "City":9.40858332,
+        "Hwy":7.8404861,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"HR-V FWD",
+        "City":9.0467147308,
+        "Hwy":7.3504557188,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Soul",
+        "City":8.7116512222,
+        "Hwy":7.1277146364,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Soul Eco dynamics",
+        "City":8.1108476897,
+        "Hwy":6.7204166571,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"Lamborghini",
+        "Carline":"Urus Performante",
+        "City":16.8010416429,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG GLA 35 4MATIC",
+        "City":10.6915719545,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"IMPREZA",
+        "City":8.7116512222,
+        "Hwy":6.9180759706,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"IMPREZA",
+        "City":9.0467147308,
+        "Hwy":7.1277146364,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volvo Cars of North America, LLC",
+        "Carline":"V60CC B5 AWD",
+        "City":9.800607625,
+        "Hwy":7.5875671935,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"A6 allroad quattro",
+        "City":10.6915719545,
+        "Hwy":7.8404861,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"RS 6 Avant",
+        "City":16.8010416429,
+        "Hwy":10.6915719545,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG GLB 35 4MATIC",
+        "City":11.2006944286,
+        "Hwy":9.0467147308,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"E 450 4MATIC AT (station wagon)",
+        "City":10.6915719545,
+        "Hwy":7.5875671935,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"MURANO AWD",
+        "City":11.76072915,
+        "Hwy":8.4005208214,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"MURANO FWD",
+        "City":11.76072915,
+        "Hwy":8.4005208214,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Rolls-Royce Motor Cars Limited",
+        "Carline":"Cullinan",
+        "City":19.60121525,
+        "Hwy":12.3797148947,
+        "Comb":16.8010416429
+    },
+    {
+        "Model Year":2024,
+        "Division":"Rolls-Royce Motor Cars Limited",
+        "Carline":"Cullinan Black Badge",
+        "City":19.60121525,
+        "Hwy":12.3797148947,
+        "Comb":16.8010416429
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volvo Cars of North America, LLC",
+        "Carline":"V90CC B6 AWD",
+        "City":10.6915719545,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"COLORADO 2WD",
+        "City":11.76072915,
+        "Hwy":9.800607625,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"COLORADO 2WD",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"MAVERICK FWD",
+        "City":10.226721,
+        "Hwy":7.8404861,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"MAVERICK HEV FWD",
+        "City":5.6003472143,
+        "Hwy":7.1277146364,
+        "Comb":6.3571508919
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"CANYON 2WD",
+        "City":12.3797148947,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TACOMA 2WD",
+        "City":11.76072915,
+        "Hwy":9.0467147308,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TACOMA SR5\/SPORT\/PRERUNNER 2WD",
+        "City":11.2006944286,
+        "Hwy":9.0467147308,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TACOMA SR5\/SPORT\/PRERUNNER 2WD",
+        "City":11.76072915,
+        "Hwy":9.800607625,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"COLORADO 4WD",
+        "City":13.0674768333,
+        "Hwy":10.6915719545,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"COLORADO 4WD",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"COLORADO 4WD MUD TERRAIN TIRES",
+        "City":13.8361519412,
+        "Hwy":11.76072915,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"COLORADO ZR2 4WD",
+        "City":13.8361519412,
+        "Hwy":13.8361519412,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"COLORADO ZR2 BISON 4WD",
+        "City":14.7009114375,
+        "Hwy":14.7009114375,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"MAVERICK AWD",
+        "City":10.6915719545,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"MAVERICK TREMOR AWD",
+        "City":11.76072915,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"CANYON 4WD",
+        "City":13.0674768333,
+        "Hwy":10.6915719545,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"CANYON 4WD MUD TERRAIN TIRES",
+        "City":13.8361519412,
+        "Hwy":11.76072915,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"CANYON AT4X 4WD",
+        "City":13.8361519412,
+        "Hwy":13.8361519412,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"CANYON AT4X AEV 4WD",
+        "City":14.7009114375,
+        "Hwy":14.7009114375,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TACOMA 4WD",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TACOMA 4WD MT",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TACOMA SR5\/SPORT\/OFFROAD\/LIMITED 4WD",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TACOMA SR5\/SPORT\/OFFROAD\/LIMITED 4WD",
+        "City":11.76072915,
+        "Hwy":10.226721,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TACOMA SR5\/SPORT\/OFFROAD\/LIMITED 4WD",
+        "City":12.3797148947,
+        "Hwy":10.226721,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 2WD",
+        "City":13.8361519412,
+        "Hwy":11.2006944286,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 2WD",
+        "City":13.0674768333,
+        "Hwy":10.6915719545,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 2WD",
+        "City":10.226721,
+        "Hwy":8.1108476897,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 2WD",
+        "City":14.7009114375,
+        "Hwy":10.6915719545,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 2WD",
+        "City":15.6809722,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 2WD",
+        "City":14.7009114375,
+        "Hwy":11.2006944286,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 2WD",
+        "City":14.7009114375,
+        "Hwy":11.76072915,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"F150 PICKUP 2WD",
+        "City":12.3797148947,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"F150 PICKUP 2WD",
+        "City":13.8361519412,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"F150 PICKUP 2WD",
+        "City":14.7009114375,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"RANGER 2WD",
+        "City":11.2006944286,
+        "Hwy":9.40858332,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 2WD",
+        "City":13.8361519412,
+        "Hwy":11.2006944286,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 2WD",
+        "City":13.0674768333,
+        "Hwy":10.6915719545,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 2WD",
+        "City":10.226721,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 2WD",
+        "City":14.7009114375,
+        "Hwy":11.2006944286,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 2WD",
+        "City":15.6809722,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 2WD",
+        "City":14.7009114375,
+        "Hwy":11.76072915,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 2WD",
+        "City":14.7009114375,
+        "Hwy":11.76072915,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"FRONTIER 2WD",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"TITAN 2WD",
+        "City":15.6809722,
+        "Hwy":11.2006944286,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"RAM",
+        "Carline":"1500 4X2",
+        "City":11.76072915,
+        "Hwy":9.40858332,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"RAM",
+        "Carline":"1500 4X2",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"RAM",
+        "Carline":"1500 Classic 4X2",
+        "City":13.8361519412,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"RAM",
+        "Carline":"1500 Classic 4X2",
+        "City":15.6809722,
+        "Hwy":11.2006944286,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"RAM",
+        "Carline":"1500 HFE 4X2",
+        "City":11.76072915,
+        "Hwy":9.0467147308,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TUNDRA 2WD",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TUNDRA 2WD",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TUNDRA 2WD",
+        "City":11.76072915,
+        "Hwy":9.800607625,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TUNDRA 2WD",
+        "City":11.76072915,
+        "Hwy":9.800607625,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TUNDRA 2WD",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TUNDRA 2WD",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD",
+        "City":13.8361519412,
+        "Hwy":12.3797148947,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD",
+        "City":13.0674768333,
+        "Hwy":11.2006944286,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD",
+        "City":10.226721,
+        "Hwy":8.7116512222,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD",
+        "City":11.2006944286,
+        "Hwy":9.800607625,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD",
+        "City":15.6809722,
+        "Hwy":12.3797148947,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD",
+        "City":15.6809722,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD",
+        "City":15.6809722,
+        "Hwy":12.3797148947,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD MUD TERRAIN TIRES",
+        "City":14.7009114375,
+        "Hwy":13.8361519412,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD MUD TERRAIN TIRES",
+        "City":14.7009114375,
+        "Hwy":13.8361519412,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD MUD TERRAIN TIRES",
+        "City":11.2006944286,
+        "Hwy":10.226721,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD MUD TERRAIN TIRES",
+        "City":11.2006944286,
+        "Hwy":10.226721,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD MUD TERRAIN TIRES",
+        "City":15.6809722,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD MUD TERRAIN TIRES",
+        "City":15.6809722,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD MUD TERRAIN TIRES",
+        "City":15.6809722,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD MUD TERRAIN TIRES",
+        "City":15.6809722,
+        "Hwy":12.3797148947,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD MUD TERRAIN TIRES",
+        "City":16.8010416429,
+        "Hwy":13.8361519412,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD ZR2",
+        "City":11.76072915,
+        "Hwy":10.6915719545,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD ZR2",
+        "City":16.8010416429,
+        "Hwy":13.8361519412,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"F150 PICKUP 4WD",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"F150 PICKUP 4WD",
+        "City":14.7009114375,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"F150 PICKUP 4WD",
+        "City":14.7009114375,
+        "Hwy":9.800607625,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"F150 PICKUP 4WD HEV",
+        "City":10.6915719545,
+        "Hwy":9.800607625,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"F150 PICKUP TREMOR 4WD",
+        "City":14.7009114375,
+        "Hwy":11.2006944286,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"F150 PICKUP TREMOR 4WD",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"F150 RAPTOR 4WD",
+        "City":16.8010416429,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"F150 RAPTOR R 4WD",
+        "City":23.5214583,
+        "Hwy":15.6809722,
+        "Comb":19.60121525
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"RANGER 4WD",
+        "City":11.76072915,
+        "Hwy":9.800607625,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"RANGER 4WD",
+        "City":12.3797148947,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"RANGER RAPTOR 4WD",
+        "City":14.7009114375,
+        "Hwy":13.0674768333,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD",
+        "City":13.8361519412,
+        "Hwy":13.0674768333,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD",
+        "City":13.8361519412,
+        "Hwy":11.76072915,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD",
+        "City":10.226721,
+        "Hwy":8.7116512222,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD",
+        "City":15.6809722,
+        "Hwy":12.3797148947,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD",
+        "City":15.6809722,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD",
+        "City":15.6809722,
+        "Hwy":12.3797148947,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD",
+        "City":15.6809722,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD AT4X",
+        "City":12.3797148947,
+        "Hwy":11.76072915,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD AT4X",
+        "City":16.8010416429,
+        "Hwy":14.7009114375,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD MUD TERRAIN TIRES",
+        "City":14.7009114375,
+        "Hwy":13.8361519412,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD MUD TERRAIN TIRES",
+        "City":11.2006944286,
+        "Hwy":10.226721,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD MUD TERRAIN TIRES",
+        "City":15.6809722,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD MUD TERRAIN TIRES",
+        "City":15.6809722,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD MUD TERRAIN TIRES",
+        "City":15.6809722,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD MUD TERRAIN TIRES",
+        "City":15.6809722,
+        "Hwy":12.3797148947,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD MUD TERRAIN TIRES",
+        "City":16.8010416429,
+        "Hwy":13.8361519412,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"RIDGELINE AWD",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"RIDGELINE AWD TrailSport",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Gladiator 4X4",
+        "City":13.8361519412,
+        "Hwy":10.6915719545,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Gladiator 4X4",
+        "City":14.7009114375,
+        "Hwy":11.2006944286,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"FRONTIER 4WD",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"FRONTIER 4WD PRO-4X",
+        "City":13.0674768333,
+        "Hwy":10.6915719545,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"TITAN 4WD",
+        "City":15.6809722,
+        "Hwy":11.2006944286,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"TITAN 4WD PRO-4X",
+        "City":16.8010416429,
+        "Hwy":11.76072915,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"RAM",
+        "Carline":"1500 4X4",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"RAM",
+        "Carline":"1500 4X4",
+        "City":13.0674768333,
+        "Hwy":10.6915719545,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"RAM",
+        "Carline":"1500 Classic 4X4",
+        "City":14.7009114375,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"RAM",
+        "Carline":"1500 Classic 4X4",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"RAM",
+        "Carline":"1500 TRX 4x4",
+        "City":23.5214583,
+        "Hwy":16.8010416429,
+        "Comb":19.60121525
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TACOMA HYBRID 4WD",
+        "City":10.6915719545,
+        "Hwy":9.800607625,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TACOMA HYBRID 4WD",
+        "City":10.226721,
+        "Hwy":9.800607625,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TUNDRA 4WD",
+        "City":13.8361519412,
+        "Hwy":10.6915719545,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TUNDRA 4WD",
+        "City":13.8361519412,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TUNDRA 4WD",
+        "City":12.3797148947,
+        "Hwy":10.6915719545,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TUNDRA 4WD",
+        "City":13.8361519412,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TUNDRA 4WD",
+        "City":12.3797148947,
+        "Hwy":10.6915719545,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TUNDRA 4WD PRO",
+        "City":13.0674768333,
+        "Hwy":11.76072915,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"TUNDRA 4WD PRO",
+        "City":13.0674768333,
+        "Hwy":11.76072915,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"XT5 HEARSE FWD",
+        "City":11.76072915,
+        "Hwy":10.226721,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"XT5 LIMO FWD",
+        "City":11.76072915,
+        "Hwy":10.226721,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"GLA 250",
+        "City":9.40858332,
+        "Hwy":6.9180759706,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"GLB 250",
+        "City":9.40858332,
+        "Hwy":7.1277146364,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"XT5 HEARSE AWD",
+        "City":11.76072915,
+        "Hwy":10.226721,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"XT5 LIMO AWD",
+        "City":11.76072915,
+        "Hwy":10.226721,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 2WD CAB CHASSIS",
+        "City":15.6809722,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SILVERADO 4WD CAB CHASSIS",
+        "City":16.8010416429,
+        "Hwy":13.8361519412,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 2WD CAB CHASSIS",
+        "City":16.8010416429,
+        "Hwy":13.8361519412,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"SIERRA 4WD CAB CHASSIS",
+        "City":16.8010416429,
+        "Hwy":13.8361519412,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chrysler",
+        "Carline":"Pacifica",
+        "City":12.3797148947,
+        "Hwy":8.4005208214,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chrysler",
+        "Carline":"Voyager",
+        "City":12.3797148947,
+        "Hwy":8.4005208214,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"ODYSSEY FWD",
+        "City":12.3797148947,
+        "Hwy":8.4005208214,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Carnival",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"SIENNA",
+        "City":6.5337384167,
+        "Hwy":6.5337384167,
+        "Comb":6.5337384167
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chrysler",
+        "Carline":"Pacifica AWD",
+        "City":13.8361519412,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"SIENNA AWD",
+        "City":6.7204166571,
+        "Hwy":6.5337384167,
+        "Comb":6.7204166571
+    },
+    {
+        "Model Year":2024,
+        "Division":"Acura",
+        "Carline":"MDX FWD",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"ALFA ROMEO",
+        "Carline":"Stelvio",
+        "City":10.6915719545,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X3 sDrive30i",
+        "City":10.226721,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Buick",
+        "Carline":"ENCORE GX FWD",
+        "City":7.8404861,
+        "Hwy":7.5875671935,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Buick",
+        "Carline":"ENCORE GX FWD",
+        "City":8.1108476897,
+        "Hwy":7.5875671935,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"XT4 FWD",
+        "City":9.800607625,
+        "Hwy":8.1108476897,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"XT5 FWD",
+        "City":10.6915719545,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"XT5 FWD",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"XT6 FWD",
+        "City":11.2006944286,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"XT6 FWD",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"BLAZER FWD",
+        "City":10.6915719545,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"BLAZER FWD",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"EQUINOX FWD",
+        "City":9.0467147308,
+        "Hwy":7.5875671935,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"TRAILBLAZER FWD",
+        "City":8.1108476897,
+        "Hwy":7.1277146364,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"ESCAPE FWD",
+        "City":8.7116512222,
+        "Hwy":6.9180759706,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"ESCAPE FWD HEV",
+        "City":5.6003472143,
+        "Hwy":6.5337384167,
+        "Comb":6.0311431538
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"TERRAIN FWD",
+        "City":9.800607625,
+        "Hwy":8.1108476897,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"CR-V FWD",
+        "City":8.4005208214,
+        "Hwy":6.9180759706,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"CR-V FWD",
+        "City":5.4701065814,
+        "Hwy":6.5337384167,
+        "Comb":5.880364575
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"PILOT FWD",
+        "City":12.3797148947,
+        "Hwy":8.7116512222,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Kona FWD",
+        "City":9.0467147308,
+        "Hwy":7.3504557188,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Kona FWD",
+        "City":8.1108476897,
+        "Hwy":6.9180759706,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Kona FWD",
+        "City":8.4005208214,
+        "Hwy":6.7204166571,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Palisade FWD",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Santa Cruz FWD",
+        "City":10.6915719545,
+        "Hwy":9.0467147308,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Santa Fe FWD",
+        "City":11.76072915,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Santa Fe Hybrid FWD",
+        "City":6.5337384167,
+        "Hwy":6.7204166571,
+        "Comb":6.5337384167
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Tucson FWD",
+        "City":9.40858332,
+        "Hwy":7.3504557188,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Venue",
+        "City":8.1108476897,
+        "Hwy":7.1277146364,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"INFINITI",
+        "Carline":"QX50",
+        "City":10.226721,
+        "Hwy":8.1108476897,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Niro",
+        "City":4.438011,
+        "Hwy":5.2269907333,
+        "Comb":4.8002976122
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Niro FE",
+        "City":4.438011,
+        "Hwy":4.3558256111,
+        "Comb":4.438011
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Seltos FWD",
+        "City":8.4005208214,
+        "Hwy":6.9180759706,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Sorento FWD",
+        "City":11.76072915,
+        "Hwy":8.1108476897,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Sorento FWD",
+        "City":10.226721,
+        "Hwy":7.5875671935,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Sorento Hybrid FWD",
+        "City":6.0311431538,
+        "Hwy":6.7204166571,
+        "Comb":6.3571508919
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Sportage FWD",
+        "City":9.40858332,
+        "Hwy":7.1277146364,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Telluride FWD",
+        "City":11.76072915,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"NX 250",
+        "City":9.0467147308,
+        "Hwy":7.1277146364,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"RX 350",
+        "City":10.6915719545,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Lincoln",
+        "Carline":"CORSAIR FWD",
+        "City":10.6915719545,
+        "Hwy":7.8404861,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"GLC 300",
+        "City":9.800607625,
+        "Hwy":7.3504557188,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"MITSUBISHI MOTORS",
+        "Carline":"Outlander 2WD",
+        "City":9.800607625,
+        "Hwy":7.5875671935,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mitsubishi Motors Corporation",
+        "Carline":"ECLIPSE CROSS 2WD",
+        "City":9.40858332,
+        "Hwy":8.4005208214,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mitsubishi Motors Corporation",
+        "Carline":"Outlander Sport 2WD",
+        "City":9.800607625,
+        "Hwy":7.8404861,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"PATHFINDER 2WD",
+        "City":11.76072915,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"ROGUE FWD",
+        "City":7.8404861,
+        "Hwy":6.3571508919,
+        "Comb":7.1277146364
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"ROGUE FWD SL\/PLATINUM",
+        "City":8.1108476897,
+        "Hwy":6.5337384167,
+        "Comb":7.3504557188
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"COROLLA CROSS",
+        "City":7.5875671935,
+        "Hwy":7.1277146364,
+        "Comb":7.3504557188
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"HIGHLANDER",
+        "City":10.6915719545,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"HIGHLANDER",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"HIGHLANDER HYBRID",
+        "City":6.5337384167,
+        "Hwy":6.7204166571,
+        "Comb":6.5337384167
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"RAV4",
+        "City":8.7116512222,
+        "Hwy":6.7204166571,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Atlas",
+        "City":11.76072915,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Atlas Cross Sport",
+        "City":11.76072915,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Taos",
+        "City":8.4005208214,
+        "Hwy":6.5337384167,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Tiguan",
+        "City":10.226721,
+        "Hwy":7.8404861,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Tiguan S",
+        "City":9.800607625,
+        "Hwy":7.5875671935,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Acura",
+        "Carline":"MDX AWD",
+        "City":12.3797148947,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Acura",
+        "Carline":"RDX AWD",
+        "City":11.2006944286,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Acura",
+        "Carline":"RDX AWD A-SPEC",
+        "City":11.2006944286,
+        "Hwy":9.0467147308,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"ALFA ROMEO",
+        "Carline":"Stelvio AWD",
+        "City":10.6915719545,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"ALFA ROMEO",
+        "Carline":"Stelvio AWD",
+        "City":13.8361519412,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"Q3 quattro",
+        "City":10.6915719545,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"Q3 S line quattro",
+        "City":11.76072915,
+        "Hwy":8.4005208214,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"Q5 quattro",
+        "City":10.226721,
+        "Hwy":8.1108476897,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"Q5 S line quattro",
+        "City":10.6915719545,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"Q5 Sportback S line quattro",
+        "City":10.6915719545,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"SQ5",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"SQ5 Sportback",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X1 M35i",
+        "City":10.226721,
+        "Hwy":7.5875671935,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X1 xDrive28i",
+        "City":9.40858332,
+        "Hwy":6.9180759706,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X2 M35i",
+        "City":10.226721,
+        "Hwy":7.3504557188,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X2 xDrive28i",
+        "City":9.800607625,
+        "Hwy":7.1277146364,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X3 M",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X3 M Competition",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X3 M40i",
+        "City":11.2006944286,
+        "Hwy":9.0467147308,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X3 xDrive30i",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X4 M",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X4 M Competition",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X4 M40i",
+        "City":11.2006944286,
+        "Hwy":9.0467147308,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X4 xDrive30i",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Buick",
+        "Carline":"ENCORE GX AWD",
+        "City":9.0467147308,
+        "Hwy":8.4005208214,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Buick",
+        "Carline":"ENVISION AWD",
+        "City":10.6915719545,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"XT4 AWD",
+        "City":10.226721,
+        "Hwy":8.4005208214,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"XT5 AWD",
+        "City":11.2006944286,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"XT5 AWD",
+        "City":13.0674768333,
+        "Hwy":9.0467147308,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"XT6 AWD",
+        "City":11.2006944286,
+        "Hwy":9.0467147308,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"XT6 AWD",
+        "City":13.0674768333,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"BLAZER AWD",
+        "City":10.6915719545,
+        "Hwy":8.7116512222,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"BLAZER AWD",
+        "City":13.0674768333,
+        "Hwy":9.0467147308,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"EQUINOX AWD",
+        "City":9.800607625,
+        "Hwy":7.8404861,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"TRAILBLAZER AWD",
+        "City":9.0467147308,
+        "Hwy":8.1108476897,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Dodge",
+        "Carline":"Hornet AWD",
+        "City":11.2006944286,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"BRONCO 4WD",
+        "City":11.76072915,
+        "Hwy":11.2006944286,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"BRONCO 4WD",
+        "City":11.76072915,
+        "Hwy":11.2006944286,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"BRONCO 4WD",
+        "City":12.3797148947,
+        "Hwy":11.2006944286,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"BRONCO BADLANDS 4WD",
+        "City":14.7009114375,
+        "Hwy":13.0674768333,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"BRONCO BADLANDS 4WD",
+        "City":13.8361519412,
+        "Hwy":13.8361519412,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"BRONCO BLACK DIAMOND 4WD",
+        "City":13.0674768333,
+        "Hwy":13.0674768333,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"BRONCO BLACK DIAMOND 4WD",
+        "City":14.7009114375,
+        "Hwy":13.0674768333,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"BRONCO BLACK DIAMOND 4WD",
+        "City":13.0674768333,
+        "Hwy":13.0674768333,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"BRONCO SASQUATCH 4WD",
+        "City":13.0674768333,
+        "Hwy":13.8361519412,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"BRONCO SASQUATCH 4WD",
+        "City":14.7009114375,
+        "Hwy":13.0674768333,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"BRONCO SASQUATCH 4WD",
+        "City":13.8361519412,
+        "Hwy":13.8361519412,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"BRONCO SPORT 4WD",
+        "City":9.40858332,
+        "Hwy":8.1108476897,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"BRONCO SPORT 4WD",
+        "City":11.2006944286,
+        "Hwy":9.0467147308,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"EDGE AWD",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"EDGE AWD",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"EDGE AWD",
+        "City":12.3797148947,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"ESCAPE AWD",
+        "City":9.0467147308,
+        "Hwy":7.3504557188,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"ESCAPE AWD",
+        "City":10.226721,
+        "Hwy":7.5875671935,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"ESCAPE AWD HEV",
+        "City":5.6003472143,
+        "Hwy":6.5337384167,
+        "Comb":6.0311431538
+    },
+    {
+        "Model Year":2024,
+        "Division":"GENESIS",
+        "Carline":"GV70 AWD",
+        "City":10.6915719545,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"GENESIS",
+        "Carline":"GV70 AWD",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"GENESIS",
+        "Carline":"GV70 AWD",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"TERRAIN AWD",
+        "City":10.226721,
+        "Hwy":8.4005208214,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"CR-V AWD",
+        "City":8.7116512222,
+        "Hwy":7.3504557188,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"CR-V AWD",
+        "City":5.880364575,
+        "Hwy":6.9180759706,
+        "Comb":6.3571508919
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"PASSPORT AWD",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Kona AWD",
+        "City":9.800607625,
+        "Hwy":8.1108476897,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Kona AWD",
+        "City":9.0467147308,
+        "Hwy":8.1108476897,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Kona AWD",
+        "City":8.7116512222,
+        "Hwy":8.1108476897,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Palisade AWD",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Santa Cruz AWD",
+        "City":12.3797148947,
+        "Hwy":8.7116512222,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Santa Cruz AWD",
+        "City":11.2006944286,
+        "Hwy":9.40858332,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Santa Fe AWD",
+        "City":11.76072915,
+        "Hwy":8.4005208214,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Santa Fe AWD XRT",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Santa Fe Hybrid AWD",
+        "City":6.7204166571,
+        "Hwy":6.9180759706,
+        "Comb":6.9180759706
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Tucson AWD",
+        "City":10.226721,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Tucson Hybrid",
+        "City":6.3571508919,
+        "Hwy":6.5337384167,
+        "Comb":6.3571508919
+    },
+    {
+        "Model Year":2024,
+        "Division":"HYUNDAI MOTOR COMPANY",
+        "Carline":"Tucson Hybrid Blue",
+        "City":6.1898574474,
+        "Hwy":6.1898574474,
+        "Comb":6.1898574474
+    },
+    {
+        "Model Year":2024,
+        "Division":"INFINITI",
+        "Carline":"QX50 AWD",
+        "City":10.6915719545,
+        "Hwy":8.4005208214,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"INFINITI",
+        "Carline":"QX55 AWD",
+        "City":10.6915719545,
+        "Hwy":8.4005208214,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jaguar",
+        "Carline":"E-PACE",
+        "City":11.76072915,
+        "Hwy":9.0467147308,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jaguar",
+        "Carline":"F-PACE",
+        "City":10.6915719545,
+        "Hwy":8.7116512222,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jaguar",
+        "Carline":"F-PACE P400 MHEV",
+        "City":12.3797148947,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jaguar",
+        "Carline":"F-PACE SVR",
+        "City":15.6809722,
+        "Hwy":11.2006944286,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Compass 4X4",
+        "City":9.800607625,
+        "Hwy":7.3504557188,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Wrangler 2dr 4X4",
+        "City":11.76072915,
+        "Hwy":10.226721,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Wrangler 2dr 4X4",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Wrangler 2dr 4X4",
+        "City":13.8361519412,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Wrangler 4dr 4X4",
+        "City":11.76072915,
+        "Hwy":10.6915719545,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Wrangler 4dr 4X4",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Wrangler 4dr 4X4",
+        "City":14.7009114375,
+        "Hwy":10.6915719545,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Wrangler 4dr 4X4",
+        "City":18.0934294615,
+        "Hwy":14.7009114375,
+        "Comb":16.8010416429
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Wrangler Rubicon 2dr 4X4",
+        "City":14.7009114375,
+        "Hwy":11.76072915,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Wrangler Rubicon 4dr 4X4",
+        "City":14.7009114375,
+        "Hwy":12.3797148947,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Seltos AWD",
+        "City":9.40858332,
+        "Hwy":8.7116512222,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Seltos AWD",
+        "City":8.7116512222,
+        "Hwy":7.5875671935,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Sorento AWD",
+        "City":11.76072915,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Sorento AWD",
+        "City":10.226721,
+        "Hwy":8.4005208214,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Sorento Hybrid AWD",
+        "City":6.5337384167,
+        "Hwy":7.1277146364,
+        "Comb":6.9180759706
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Sportage AWD",
+        "City":10.226721,
+        "Hwy":9.0467147308,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Sportage Hybrid AWD",
+        "City":6.1898574474,
+        "Hwy":6.1898574474,
+        "Comb":6.1898574474
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Sportage Hybrid FWD",
+        "City":5.6003472143,
+        "Hwy":5.3457859773,
+        "Comb":5.4701065814
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Sportage X-pro",
+        "City":10.226721,
+        "Hwy":7.8404861,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"KIA",
+        "Carline":"Telluride AWD",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Discovery Sport",
+        "City":12.3797148947,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Range Rover Evoque",
+        "City":11.76072915,
+        "Hwy":8.7116512222,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Range Rover Velar",
+        "City":10.6915719545,
+        "Hwy":9.0467147308,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Range Rover Velar P340 MHEV",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Range Rover Velar P400 MHEV",
+        "City":12.3797148947,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"NX 250 AWD",
+        "City":9.40858332,
+        "Hwy":7.3504557188,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"NX 350 AWD",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"NX 350 AWD F SPORT",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"NX 350h AWD",
+        "City":5.7369410488,
+        "Hwy":6.3571508919,
+        "Comb":6.0311431538
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"NX 350h AWD",
+        "City":5.7369410488,
+        "Hwy":6.3571508919,
+        "Comb":6.0311431538
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"RX 350 AWD",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"RX 350h AWD",
+        "City":6.3571508919,
+        "Hwy":6.9180759706,
+        "Comb":6.5337384167
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"RX 500h AWD",
+        "City":8.7116512222,
+        "Hwy":8.4005208214,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Lincoln",
+        "Carline":"CORSAIR AWD",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Lincoln",
+        "Carline":"NAUTILUS AWD",
+        "City":11.2006944286,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Lincoln",
+        "Carline":"NAUTILUS HEV AWD",
+        "City":7.8404861,
+        "Hwy":7.5875671935,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Grecale GT",
+        "City":10.6915719545,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Grecale Modena",
+        "City":10.6915719545,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Grecale Trofeo",
+        "City":13.0674768333,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"CX-30 4WD",
+        "City":10.6915719545,
+        "Hwy":7.8404861,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"CX-30 4WD",
+        "City":9.0467147308,
+        "Hwy":7.1277146364,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"CX-5 4WD",
+        "City":10.226721,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"CX-5 4WD",
+        "City":9.0467147308,
+        "Hwy":7.5875671935,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"CX-5 4WD",
+        "City":10.6915719545,
+        "Hwy":8.7116512222,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"MAZDA CX-50 4WD",
+        "City":10.226721,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"MAZDA CX-50 4WD",
+        "City":9.800607625,
+        "Hwy":7.8404861,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG GLC 43 4MATIC",
+        "City":12.3797148947,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG GLC 43 4MATIC (coupe)",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"GLA 250 4MATIC",
+        "City":9.800607625,
+        "Hwy":7.3504557188,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"GLB 250 4MATIC",
+        "City":9.800607625,
+        "Hwy":7.3504557188,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"GLC 300 4MATIC",
+        "City":9.800607625,
+        "Hwy":7.3504557188,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"GLC 300 4MATIC (Coupe)",
+        "City":9.800607625,
+        "Hwy":7.8404861,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"GLE 350",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"GLE 350 4MATIC",
+        "City":11.76072915,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"MITSUBISHI MOTORS",
+        "Carline":"Outlander 4WD",
+        "City":9.800607625,
+        "Hwy":7.8404861,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mitsubishi Motors Corporation",
+        "Carline":"ECLIPSE CROSS 4WD",
+        "City":9.40858332,
+        "Hwy":9.0467147308,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mitsubishi Motors Corporation",
+        "Carline":"ECLIPSE CROSS ES 4WD",
+        "City":9.40858332,
+        "Hwy":8.4005208214,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mitsubishi Motors Corporation",
+        "Carline":"Outlander Sport 4WD",
+        "City":10.226721,
+        "Hwy":8.1108476897,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mitsubishi Motors Corporation",
+        "Carline":"Outlander Sport 4WD",
+        "City":10.226721,
+        "Hwy":8.4005208214,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"PATHFINDER 4WD",
+        "City":11.2006944286,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"PATHFINDER 4WD ROCK CREEK",
+        "City":11.76072915,
+        "Hwy":10.226721,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"ROGUE AWD",
+        "City":8.4005208214,
+        "Hwy":6.7204166571,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"ROGUE AWD SL\/PLATINUM",
+        "City":8.4005208214,
+        "Hwy":6.9180759706,
+        "Comb":7.5875671935
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"Macan",
+        "City":12.3797148947,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"Macan GTS",
+        "City":13.8361519412,
+        "Hwy":10.6915719545,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"Macan S",
+        "City":13.8361519412,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"Macan T",
+        "City":12.3797148947,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"CROSSTREK AWD",
+        "City":8.7116512222,
+        "Hwy":6.9180759706,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"CROSSTREK AWD",
+        "City":9.0467147308,
+        "Hwy":7.1277146364,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"CROSSTREK WILDERNESS AWD",
+        "City":9.40858332,
+        "Hwy":8.1108476897,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"FORESTER AWD",
+        "City":9.0467147308,
+        "Hwy":7.1277146364,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"FORESTER WILDERNESS AWD",
+        "City":9.40858332,
+        "Hwy":8.4005208214,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"OUTBACK AWD",
+        "City":10.6915719545,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"OUTBACK AWD",
+        "City":9.0467147308,
+        "Hwy":7.3504557188,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"OUTBACK WILDERNESS AWD",
+        "City":11.2006944286,
+        "Hwy":9.0467147308,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"COROLLA CROSS AWD",
+        "City":8.1108476897,
+        "Hwy":7.5875671935,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"COROLLA CROSS HYBRID AWD",
+        "City":5.2269907333,
+        "Hwy":6.1898574474,
+        "Comb":5.6003472143
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"HIGHLANDER AWD",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"RAV4 AWD",
+        "City":9.40858332,
+        "Hwy":7.1277146364,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"RAV4 AWD",
+        "City":8.7116512222,
+        "Hwy":7.1277146364,
+        "Comb":8.1108476897
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"RAV4 AWD LE",
+        "City":8.7116512222,
+        "Hwy":6.9180759706,
+        "Comb":7.8404861
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"RAV4 AWD TRD OFFROAD",
+        "City":9.40858332,
+        "Hwy":7.3504557188,
+        "Comb":8.4005208214
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"RAV4 HYBRID AWD",
+        "City":5.7369410488,
+        "Hwy":6.1898574474,
+        "Comb":6.0311431538
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"RAV4 HYBRID AWD WOODLAND EDITION",
+        "City":6.1898574474,
+        "Hwy":6.7204166571,
+        "Comb":6.3571508919
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"VENZA AWD",
+        "City":5.880364575,
+        "Hwy":6.3571508919,
+        "Comb":6.0311431538
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Atlas 4Motion Peak Edition",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Atlas Cross Sport 4Motion",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Atlas SE 4Motion",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Atlas SEL 4Motion",
+        "City":12.3797148947,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Taos 4Motion",
+        "City":9.800607625,
+        "Hwy":7.3504557188,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Tiguan 4Motion",
+        "City":10.6915719545,
+        "Hwy":8.1108476897,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volkswagen",
+        "Carline":"Tiguan R-Line 4Motion",
+        "City":10.6915719545,
+        "Hwy":8.1108476897,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volvo Cars of North America, LLC",
+        "Carline":"XC40 B5 AWD",
+        "City":9.800607625,
+        "Hwy":7.8404861,
+        "Comb":9.0467147308
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volvo Cars of North America, LLC",
+        "Carline":"XC60 B5 AWD",
+        "City":10.6915719545,
+        "Hwy":8.4005208214,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X5 sDrive40i",
+        "City":10.226721,
+        "Hwy":8.7116512222,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Buick",
+        "Carline":"ENCLAVE FWD",
+        "City":13.0674768333,
+        "Hwy":9.0467147308,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"ESCALADE 2WD",
+        "City":11.2006944286,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"ESCALADE 2WD",
+        "City":16.8010416429,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SUBURBAN 2WD",
+        "City":11.2006944286,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SUBURBAN 2WD",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SUBURBAN 2WD",
+        "City":16.8010416429,
+        "Hwy":11.76072915,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"TAHOE 2WD",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"TAHOE 2WD",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"TAHOE 2WD",
+        "City":16.8010416429,
+        "Hwy":11.76072915,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"TRAVERSE FWD",
+        "City":11.76072915,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"TRAVERSE LIMITED FWD",
+        "City":13.0674768333,
+        "Hwy":9.0467147308,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Dodge",
+        "Carline":"Durango RWD",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Dodge",
+        "Carline":"Durango RWD",
+        "City":16.8010416429,
+        "Hwy":10.6915719545,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"EXPEDITION 2WD",
+        "City":13.8361519412,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"EXPLORER RWD",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"EXPLORER RWD",
+        "City":13.0674768333,
+        "Hwy":9.0467147308,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"EXPLORER RWD",
+        "City":13.0674768333,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"ACADIA FWD",
+        "City":11.76072915,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"YUKON 2WD",
+        "City":11.2006944286,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"YUKON 2WD",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"YUKON 2WD",
+        "City":16.8010416429,
+        "Hwy":11.76072915,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"YUKON XL 2WD",
+        "City":11.2006944286,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"YUKON XL 2WD",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"YUKON XL 2WD",
+        "City":16.8010416429,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"INFINITI",
+        "Carline":"QX60 FWD",
+        "City":11.2006944286,
+        "Hwy":9.0467147308,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"INFINITI",
+        "Carline":"QX80 2WD",
+        "City":16.8010416429,
+        "Hwy":11.76072915,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Grand Cherokee 4X2",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Grand Cherokee L 4X2",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Wagoneer 4x2",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Wagoneer L 4x2",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"TX 350",
+        "City":11.2006944286,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Lincoln",
+        "Carline":"AVIATOR RWD",
+        "City":13.0674768333,
+        "Hwy":9.0467147308,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"ARMADA 2WD",
+        "City":16.8010416429,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"4RUNNER 2WD",
+        "City":14.7009114375,
+        "Hwy":12.3797148947,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"GRAND HIGHLANDER HYBRID",
+        "City":6.3571508919,
+        "Hwy":6.9180759706,
+        "Comb":6.5337384167
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"GRAND HIGHLANDER HYBRID LIMITED",
+        "City":6.5337384167,
+        "Hwy":7.3504557188,
+        "Comb":6.9180759706
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"GRAND HIGHLANDER LE\/XLE",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"GRAND HIGHLANDER LIMITED",
+        "City":11.2006944286,
+        "Hwy":8.4005208214,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"SEQUOIA 2WD",
+        "City":11.2006944286,
+        "Hwy":9.800607625,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Acura",
+        "Carline":"MDX AWD Type-S",
+        "City":13.8361519412,
+        "Hwy":11.2006944286,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Aston Martin Lagonda Ltd",
+        "Carline":"DBX 707",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Aston Martin Lagonda Ltd",
+        "Carline":"DBX V8",
+        "City":16.8010416429,
+        "Hwy":11.76072915,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"Q7 quattro",
+        "City":12.3797148947,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"Q7 quattro",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"Q8 quattro",
+        "City":13.8361519412,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"RS Q8",
+        "City":18.0934294615,
+        "Hwy":12.3797148947,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"SQ7",
+        "City":15.6809722,
+        "Hwy":11.2006944286,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Audi",
+        "Carline":"SQ8",
+        "City":15.6809722,
+        "Hwy":11.2006944286,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Bentley",
+        "Carline":"Bentayga",
+        "City":16.8010416429,
+        "Hwy":11.2006944286,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Bentley",
+        "Carline":"Bentayga EWB",
+        "City":16.8010416429,
+        "Hwy":11.2006944286,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"ALPINA XB7",
+        "City":14.7009114375,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X5 M Competition",
+        "City":18.0934294615,
+        "Hwy":13.0674768333,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X5 M60i xDrive",
+        "City":13.8361519412,
+        "Hwy":10.6915719545,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X5 xDrive40i",
+        "City":10.226721,
+        "Hwy":8.7116512222,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X6 M Competition",
+        "City":18.0934294615,
+        "Hwy":13.0674768333,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X6 M60i xDrive",
+        "City":13.8361519412,
+        "Hwy":10.6915719545,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X6 xDrive40i",
+        "City":10.226721,
+        "Hwy":9.0467147308,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X7 M60i xDrive",
+        "City":14.7009114375,
+        "Hwy":11.2006944286,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"BMW",
+        "Carline":"X7 xDrive40i",
+        "City":11.2006944286,
+        "Hwy":9.40858332,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Buick",
+        "Carline":"ENCLAVE AWD",
+        "City":13.8361519412,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"ESCALADE 4WD",
+        "City":11.76072915,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"ESCALADE 4WD",
+        "City":16.8010416429,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Cadillac",
+        "Carline":"ESCALADE V AWD",
+        "City":21.3831439091,
+        "Hwy":14.7009114375,
+        "Comb":18.0934294615
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SUBURBAN 4WD",
+        "City":11.76072915,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SUBURBAN 4WD",
+        "City":15.6809722,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"SUBURBAN 4WD",
+        "City":16.8010416429,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"TAHOE 4WD",
+        "City":11.76072915,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"TAHOE 4WD",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"TAHOE 4WD",
+        "City":16.8010416429,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"TAHOE 4WD",
+        "City":16.8010416429,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"TRAVERSE AWD",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Chevrolet",
+        "Carline":"TRAVERSE LIMITED AWD",
+        "City":13.8361519412,
+        "Hwy":9.40858332,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Dodge",
+        "Carline":"Durango AWD",
+        "City":13.0674768333,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Dodge",
+        "Carline":"Durango AWD",
+        "City":16.8010416429,
+        "Hwy":10.6915719545,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Dodge",
+        "Carline":"Durango SRT AWD",
+        "City":19.60121525,
+        "Hwy":13.8361519412,
+        "Comb":18.0934294615
+    },
+    {
+        "Model Year":2024,
+        "Division":"Dodge",
+        "Carline":"Durango SRT AWD",
+        "City":18.0934294615,
+        "Hwy":12.3797148947,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ferrari North America, Inc.",
+        "Carline":"Purosangue",
+        "City":21.3831439091,
+        "Hwy":15.6809722,
+        "Comb":19.60121525
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"BRONCO RAPTOR 4WD",
+        "City":15.6809722,
+        "Hwy":14.7009114375,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"EXPEDITION 4WD",
+        "City":14.7009114375,
+        "Hwy":10.6915719545,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"EXPEDITION TIMBERLINE 4WD",
+        "City":14.7009114375,
+        "Hwy":12.3797148947,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"EXPLORER AWD",
+        "City":11.76072915,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"EXPLORER AWD",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"EXPLORER AWD",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"EXPLORER FFV AWD",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Ford",
+        "Carline":"EXPLORER TIMBERLINE AWD",
+        "City":12.3797148947,
+        "Hwy":10.6915719545,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"GENESIS",
+        "Carline":"GV80 AWD",
+        "City":11.76072915,
+        "Hwy":9.800607625,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"GENESIS",
+        "Carline":"GV80 AWD",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"ACADIA AWD",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"YUKON 4WD",
+        "City":11.76072915,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"YUKON 4WD",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"YUKON 4WD",
+        "City":16.8010416429,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"YUKON XL 4WD",
+        "City":11.76072915,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"YUKON XL 4WD",
+        "City":15.6809722,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"GMC",
+        "Carline":"YUKON XL 4WD",
+        "City":16.8010416429,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"PILOT AWD",
+        "City":12.3797148947,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"Pilot AWD Touring\/Elite\/Black",
+        "City":12.3797148947,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Honda",
+        "Carline":"Pilot AWD TRAILSPORT",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"INEOS Automotive Limited",
+        "Carline":"Grenadier Station Wagon",
+        "City":15.6809722,
+        "Hwy":15.6809722,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"INEOS Automotive Limited",
+        "Carline":"Grenadier Trialmaster Edition",
+        "City":16.8010416429,
+        "Hwy":16.8010416429,
+        "Comb":16.8010416429
+    },
+    {
+        "Model Year":2024,
+        "Division":"INFINITI",
+        "Carline":"QX60 AWD",
+        "City":11.76072915,
+        "Hwy":9.40858332,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"INFINITI",
+        "Carline":"QX80 4WD",
+        "City":18.0934294615,
+        "Hwy":12.3797148947,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Grand Cherokee 4X4",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Grand Cherokee L 4X4",
+        "City":13.0674768333,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Grand Cherokee L 4X4",
+        "City":16.8010416429,
+        "Hwy":10.6915719545,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Grand Wagoneer 4x4",
+        "City":16.8010416429,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Grand Wagoneer 4x4",
+        "City":18.0934294615,
+        "Hwy":13.0674768333,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Grand Wagoneer L 4x4",
+        "City":16.8010416429,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Wagoneer 4x4",
+        "City":14.7009114375,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Jeep",
+        "Carline":"Wagoneer L 4x4",
+        "City":14.7009114375,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Lamborghini",
+        "Carline":"Urus S",
+        "City":16.8010416429,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Defender 110",
+        "City":13.0674768333,
+        "Hwy":11.76072915,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Defender 110",
+        "City":16.8010416429,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Defender 110 MHEV",
+        "City":13.8361519412,
+        "Hwy":11.76072915,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Defender 130 Outbound",
+        "City":14.7009114375,
+        "Hwy":13.0674768333,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Defender 130 P300 MHEV",
+        "City":13.8361519412,
+        "Hwy":11.76072915,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Defender 130 P400 MHEV",
+        "City":13.8361519412,
+        "Hwy":11.76072915,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Defender 90",
+        "City":13.0674768333,
+        "Hwy":11.2006944286,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Defender 90",
+        "City":15.6809722,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Defender 90 MHEV",
+        "City":13.0674768333,
+        "Hwy":10.6915719545,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Discovery",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Discovery MHEV",
+        "City":13.8361519412,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Range Rover LWB MHEV",
+        "City":14.7009114375,
+        "Hwy":10.6915719545,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Range Rover MHEV",
+        "City":14.7009114375,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Range Rover P360 LWB MHEV",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Range Rover P360 MHEV",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Range Rover P400 LWB MHEV",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Range Rover P400 MHEV",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Range Rover Sport MHEV",
+        "City":14.7009114375,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Range Rover Sport P360 MHEV",
+        "City":13.0674768333,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Range Rover Sport P400 MHEV",
+        "City":12.3797148947,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Range Rover Sport SVR MHEV",
+        "City":14.7009114375,
+        "Hwy":10.6915719545,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Range Rover SV LWB MHEV",
+        "City":14.7009114375,
+        "Hwy":10.6915719545,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"Land Rover",
+        "Carline":"Range Rover SV MHEV",
+        "City":14.7009114375,
+        "Hwy":10.6915719545,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"GX 550",
+        "City":15.6809722,
+        "Hwy":11.2006944286,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"LX 600",
+        "City":13.8361519412,
+        "Hwy":10.6915719545,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"TX 350 AWD",
+        "City":11.76072915,
+        "Hwy":9.0467147308,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"LEXUS",
+        "Carline":"TX 500h AWD",
+        "City":8.7116512222,
+        "Hwy":8.4005208214,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"Lincoln",
+        "Carline":"AVIATOR AWD",
+        "City":13.8361519412,
+        "Hwy":9.800607625,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Lincoln",
+        "Carline":"NAVIGATOR 4WD",
+        "City":14.7009114375,
+        "Hwy":10.6915719545,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Levante GT",
+        "City":14.7009114375,
+        "Hwy":10.6915719545,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Levante Modena",
+        "City":14.7009114375,
+        "Hwy":10.6915719545,
+        "Comb":13.0674768333
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Levante Modena V8",
+        "City":18.0934294615,
+        "Hwy":11.76072915,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"MASERATI",
+        "Carline":"Levante Trofeo",
+        "City":18.0934294615,
+        "Hwy":11.76072915,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"MAZDA CX-90 4WD",
+        "City":9.800607625,
+        "Hwy":8.4005208214,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"MAZDA",
+        "Carline":"MAZDA CX-90 4WD",
+        "City":10.226721,
+        "Hwy":8.4005208214,
+        "Comb":9.40858332
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG G 63",
+        "City":18.0934294615,
+        "Hwy":14.7009114375,
+        "Comb":16.8010416429
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG G 63 4x4 Squared",
+        "City":23.5214583,
+        "Hwy":19.60121525,
+        "Comb":21.3831439091
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG GLE 53 4MATIC+",
+        "City":13.0674768333,
+        "Hwy":10.226721,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG GLE 53 4MATIC+ (coupe)",
+        "City":13.0674768333,
+        "Hwy":10.6915719545,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG GLE 63 S 4MATIC+",
+        "City":15.6809722,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG GLE 63 S 4MATIC+ (coupe)",
+        "City":15.6809722,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"AMG GLS 63 4MATIC+",
+        "City":16.8010416429,
+        "Hwy":13.0674768333,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"G 550",
+        "City":18.0934294615,
+        "Hwy":14.7009114375,
+        "Comb":16.8010416429
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"GLE 450 4MATIC",
+        "City":12.3797148947,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"GLE 580 4MATIC",
+        "City":15.6809722,
+        "Hwy":11.76072915,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"GLS 450 4MATIC",
+        "City":12.3797148947,
+        "Hwy":9.800607625,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"GLS 580 4MATIC",
+        "City":16.8010416429,
+        "Hwy":11.76072915,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"Mercedes-Benz",
+        "Carline":"GLS 600 4MATIC Maybach",
+        "City":16.8010416429,
+        "Hwy":12.3797148947,
+        "Comb":14.7009114375
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"ARMADA 4WD",
+        "City":18.0934294615,
+        "Hwy":13.0674768333,
+        "Comb":15.6809722
+    },
+    {
+        "Model Year":2024,
+        "Division":"NISSAN",
+        "Carline":"PATHFINDER 4WD PLATINUM",
+        "City":11.76072915,
+        "Hwy":9.40858332,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"Cayenne",
+        "City":13.8361519412,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"Cayenne Coupe",
+        "City":13.8361519412,
+        "Hwy":10.226721,
+        "Comb":12.3797148947
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"Cayenne S",
+        "City":15.6809722,
+        "Hwy":11.2006944286,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Porsche",
+        "Carline":"Cayenne S Coupe",
+        "City":15.6809722,
+        "Hwy":11.2006944286,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"ASCENT AWD",
+        "City":11.76072915,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"Subaru",
+        "Carline":"ASCENT LIMITED\/TOURING\/ONYX EDITION AWD",
+        "City":12.3797148947,
+        "Hwy":9.40858332,
+        "Comb":11.2006944286
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"4RUNNER 4WD",
+        "City":14.7009114375,
+        "Hwy":12.3797148947,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"4RUNNER 4WD",
+        "City":14.7009114375,
+        "Hwy":12.3797148947,
+        "Comb":13.8361519412
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"GRAND HIGHLANDER AWD LE\/XLE",
+        "City":11.2006944286,
+        "Hwy":8.7116512222,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"GRAND HIGHLANDER AWD LIMITED\/PLATINUM",
+        "City":11.76072915,
+        "Hwy":9.0467147308,
+        "Comb":10.6915719545
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"GRAND HIGHLANDER HYBRID AWD",
+        "City":9.0467147308,
+        "Hwy":8.7116512222,
+        "Comb":8.7116512222
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"GRAND HIGHLANDER HYBRID AWD",
+        "City":6.5337384167,
+        "Hwy":7.3504557188,
+        "Comb":6.9180759706
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"HIGHLANDER HYBRID AWD",
+        "City":6.7204166571,
+        "Hwy":6.7204166571,
+        "Comb":6.7204166571
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"HIGHLANDER HYBRID AWD LTD\/PLAT",
+        "City":6.7204166571,
+        "Hwy":6.9180759706,
+        "Comb":6.7204166571
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"LAND CRUISER",
+        "City":10.6915719545,
+        "Hwy":9.40858332,
+        "Comb":10.226721
+    },
+    {
+        "Model Year":2024,
+        "Division":"TOYOTA",
+        "Carline":"SEQUOIA 4WD",
+        "City":12.3797148947,
+        "Hwy":10.6915719545,
+        "Comb":11.76072915
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volvo Cars of North America, LLC",
+        "Carline":"XC90 B5 AWD",
+        "City":10.6915719545,
+        "Hwy":8.7116512222,
+        "Comb":9.800607625
+    },
+    {
+        "Model Year":2024,
+        "Division":"Volvo Cars of North America, LLC",
+        "Carline":"XC90 B6 AWD",
+        "City":11.76072915,
+        "Hwy":9.0467147308,
+        "Comb":10.226721
+    }
+]
