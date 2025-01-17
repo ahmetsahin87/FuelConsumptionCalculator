@@ -41,4 +41,8 @@ Getting Started
     •	Right-click on the solution in Solution Explorer.  
     •	Select "Restore NuGet Packages".  
 4.	Create the appsettings.json file in the root of your project with the API URL.  
-5.	Run the application.  
+5.	Run the application.    
+
+License
+
+This project is licensed under the MIT License.
